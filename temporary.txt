@@ -1,0 +1,3 @@
+; TEST_PROVIDER_URL=https://rpc2.sepolia.org
+PROVIDER_URL=https://sepolia.infura.io/v3/829f3c8fc6074d18b4cef1f4114d82ca
+PROVIDER_URL=https://data-seed-prebsc-1-s1.binance.org:8545

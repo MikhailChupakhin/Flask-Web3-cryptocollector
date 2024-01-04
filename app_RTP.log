@@ -1,0 +1,2 @@
+2024-01-04 08:34:32,041 - INFO - <RobustQueueIterator: queue='Regular_Transactions' ctag='ctag1.7a0603e934984bd5bda1e31278d05794'> closing with timeout 5 seconds
+2024-01-04 08:34:32,045 - INFO - Connection to amqp://RabbitAdmin:******@localhost:5672/localhost closed. Reconnecting after 5 seconds.
